@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coin-316801",
+  "private_key_id": "0694899e512dcec22a51cf6045481c1093138560",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCVdBSextAIYvhE\nRR0zQ3rTbwRAQNFgfAHGGwAhOoiY2Tw7z9jZAgza9L1UphwK8w9fd0CKPoxlRcxe\nh5cz0Cipug6bN2YeFSHKlHiDOfhHaBJtN7fdYsOy/xekwYw1pmCz/41JGePHweRO\nA+JXu2Z7Rlkhbcr3rli4XSd7ASdYGIcMczXhzEZ73K7OS+IFO7PncunjX0TVcatn\n4rMN2yg3BbWG1uxTO4KJMxm9AzU0SQTpoOXym+J1oE9slW65UMWLfjqLlJQ9JfwK\nh+U3zj1ZNoQFEj4X+XFUBQS0aFG867CzlROKgqMRm1F9N8r3rRf0fIhCIgQr7iOs\nDgvddOQXAgMBAAECggEAR/ycvgnHRHLfYIrl0L5tGBB+PLC76Txx4kk5G8hE6VKh\np7GqooRRStndpDtKgJ+oxPP821nbaCBhmxq2Yted7nrW9D6P6meFWj1/er3ecA6Z\n6Y+P+YvL9ZjXe51aerEEHU83b4GP7LTg0g8e4+E5MKGm5uoqfHi29T6xeJcKq2yQ\nk8P/ySf3ZZsuScr6c8cqn5I7ZJt/+vJ54ORF5+NdnmCpHfqrWV8OsXKK8yH+w0FN\nyXx4z63632z7a39zwQ+nb+xhsOhh95KDwkLSNCnNh1NZ9JV1gH9p/Aojh4WRxRMU\nLIMbDNnHXq5FKyPU7drTm5NsAh62svP1uxQ3ZEaROQKBgQDGl3ncJyswqmwcKvpG\nOOJxvDFUUEIzLxHtYLAL1nMZbvs4V6TEMGtoSFooifBppcCe3kxt3gNnc+ZmLyGY\nKD6zGXhGbDVfRHayge41U/NqTIX4rEyAfPzW1wkn3a73Og2OA6ZeD6UCH68l8zeE\n2LHJKmddniqPgaw/YkJS09nJNQKBgQDAqDDAchb0q0M1MqPUyY3MVi6j5dNa1Bng\n2z/+zvFZ+AYlcrP9sHZcFYPkZZj2pEpqYnmeCnff+DsbyLz8ZPmDAPuug6wpRPop\nZ5bJwp78NJcqq9AQSulxwehQRoYniUq2+AzQ17DvJLmO9gn4+9gbluCozq7PaFgf\ng2p3kErtmwKBgGjoA9ukZVBj9pA6s9L8ocJrI7PiYdYf+1xmQxk9w7efxN3SjpuE\n6HhCID5h/7oPcV17GOzA5xNzSjaYlyqFt/lsbvjkmJ0m0X0i3e8V1fRFUFA41IDb\nhcUH+zIwDQlUhWyLyQrPQN+KVT+6540p22DlIY12zAza917UTSzr9JQxAoGBAL8L\nylR8jrEPyDTPw9D2EixIZjXXaXDPld357Ysj8ghSwN2P0ldHDwgfucvayAYFQ1od\nzxZesSMjiJHzzRzIkPlNF0emgSnnod8/PzNSUNAu4pzJBimx768EJ/i7BrvcFIA+\nmI7c5TMwiuXurFMAgvxQ8PXVB1rb0U9mxURNjU/zAoGAb41znYUMQfXZ+MdIqjFU\nMQzEkFfvb38I9aFjvJMKsCNaQm6IbaGQHM9INBeDd45BEH9VAUyBZGLG+I9fAXEZ\nL28UEclBL+kWmrSjsOClyVBhiqeE69/CZ4kWqXtLH/Nu7W8w2n6yjRmzSGduiP0U\nmkv8s9wsOUSNZvRKQgH+xZo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "coin-jungsan@coin-316801.iam.gserviceaccount.com",
+  "client_id": "110429005568038933551",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/coin-jungsan%40coin-316801.iam.gserviceaccount.com"
+}
