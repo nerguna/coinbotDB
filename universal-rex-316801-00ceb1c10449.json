@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "universal-rex-316801",
+  "private_key_id": "00ceb1c104491036f9504c3d377364072755fb48",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDgiSDxFkIMTMOs\nH3iP92PqK15q8pHuNZhorAvgiuuJOnB/z1gLUyW9pWB7nJeuH6VS1+WtqObc41GO\n4ql9LckYdBIRwCuYwygd36BDxl23MGCQ4nGyKzACXSQIt7Gp9bEgy3Xz8lv7+Cw8\npwfPmhBOfUE8UXy04rCMu+2b5MVscEhJ+FTBN0DUKwdrmfu4U9Y0j9HeNObmPSy4\niCNyf5+5+sk9/QnK5tDbeVz8v4oxDy4YV63XrlM1qIYF+HNFxT8OWmUAY1navjb2\n7u/9t32ggZqwBKOU72YDrUm5GPxRkd00CYAnxxeYaLfmED9xviTUeXQJcFN2A5TS\ntdYjGfR3AgMBAAECggEABGs+d13l/QJo47epaWbHytOmGoyUSabLFpOzqP61M4wd\nPa6xv62YBej0y8n8zVqvp+TxIU0Fc0K4BYvwSPwuDMU5KYdFBqqNuFlcZpbHUvP6\n/xytw7f2A0cKISamDhriGnTo6QGl+6VsogXOFgxbzV6AaD3Y4WGau3bjpU9IE6sn\nKKHxZgInJocvhc3WEmwpNKBY67OQxx2d6LtTAU32ItIFsbTGAiQUPryLIEaj3cIU\nKteMa1chiCcc2AfbTgT7txv4mhBVBaYqYoXDXE4EcbG4wmF2Gqi+bWKVv3L244JF\nd3KGhAajaXPQpaeHVx79vjRtyoWf7EC91utu7Yj4dQKBgQD7ss11Fp+276N9DfOr\nV6dMrIIKOPmzvkJ4GTMqCV2TOrNzq4LaKNvHkVBs//INHC5frqIfgEW5EMgx0Oui\nKvOZIC/hzIHkBQhAq8Ah/GeSsfqAGLcHM/jfvWw6S7faUGmhxIkVGiK8OQL3jXlV\nwF1y7lWbJudVO8stqfn9510gMwKBgQDkX3yy9fLLf29i7THbj9L18fZOmpnaDugH\ncrKq8SSKqXeiLwP9WUvK500EhhXrsvdc8Gv+pd7Aw3MJXXGqGWL2MruwYP3s7Zc4\nCgXXXOTCM2krqyZxIM/5LzarlXHokDP2MU6pv9lLEJyOKhTSoABbzb/QE4x2mmF/\nteoFqe4GrQKBgBgrKillG78AMc2vSkeYqhrlsbLzl56X1WAc41nU/mRFzbd8r5rt\nM3VtUbC1vvNdUmKjrTOjKI7FusN10TqIL03z1kUzUwGnLgyvsUpSJ0vhxTEJroGF\njw9E7CCI5sWS1SHQcm1RTiaOvucwcYc3aoG/uv6j9LCthiwDV1r3HW0bAoGAdNm6\n12Lq+V7aIncVRK/BlKBak/uc7ysjY/Q3ISpDtUNi+DQwSWhwVICnMsJc4v3ufbpy\nt5gtctpOuSL77roQncJ1sJjgNGOZNU5DkN9yGT/u9y4afFX6tBiJU6Ai6YknXTf7\ndPW5/COix0cW4nKF3HNZSuFFxMXXT15IQN+i7/0CgYEApHo+B+TQawDB+CjOzMF4\nVcIUrk4d+4QCoMeGDoywdLx5W+O9i+X90FjagFXldD2l7H6SBYDSsM/WnGyehBex\nidXVIgMbmrE6wr1ow/RKbNds9uFIMQO3qCkN4VUufi1/77z/g0NTzGh75AQgeM4O\nne0E4RtIVxhNnXGNQ7/ox6w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "coin-jungsan@universal-rex-316801.iam.gserviceaccount.com",
+  "client_id": "106388672878815935989",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/coin-jungsan%40universal-rex-316801.iam.gserviceaccount.com"
+}
